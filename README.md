@@ -30,7 +30,7 @@ This Netflix Clone project was created to enhance front-end development skills, 
 3. Explore the Netflix Clone!
 
 ## 🌐 Live Demo
-[View Live Demo](https://zayddahhaoui0609.github.io/NetflixClone/) (if deployed)
+https://netflix-z-clone.vercel.app
 
 ## 📝 Development Notes
 This project was developed with a focus on:
